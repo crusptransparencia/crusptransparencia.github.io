@@ -10,15 +10,23 @@ do arquivo seja no drive ou no próprio github
 LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 -->
 
-## Tipo 1
+## Infraestrutura F
 <ul>
-	<li>Evento x</li>
+	<li>Cozinhas Bloco F</li>
+	> Vídeos mostrando o estado desestruturado e abandonado das cozinhas comunitárias do bloco F do CRUSP.
+	>> 20/03/2020
 	<ul>
-		<li><a href="" target="_blank">Vid 1</a></li>
-		<li><a href="" target="_blank">Vid 2</a></li>
+		<li><a href="https://drive.google.com/open?id=1tQeTZzb3QSEt3kxcqYRbTgOoq8qXcPQ4" target="_blank">Bloco F (parte 1)</a></li>
+		<li><a href="https://drive.google.com/open?id=1-JFUHE1vJbNYsKyXkPGcW-A4TVX_TWSR" target="_blank">Bloco F (parte 2)</a></li>
 	</ul>
-	<li>Evento y</li>
+</ul>
+
+## Reitoria
+<ul>
+	<li>Entrega da carta ao Reitor</li>
+	> Vídeo mostrando a entrega da carta que foi encaminhada ao gabinete do Reitor sob demanda de necessidades urgentes dos moradores do CRUSP.
+	>> 19/03/2020
 	<ul>
-		<li><a href="" target="_blank">Vid 1</a></li>
+		<li><a href="https://drive.google.com/open?id=1DNtT58BE3C_GGaZ5esOF0NrGJ5BSl7ZM" target="_blank">Entrega da carta [alt F4]</a></li>
 	</ul>
 </ul>
