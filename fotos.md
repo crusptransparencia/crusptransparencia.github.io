@@ -6,7 +6,7 @@ description: Registro de fotografias, eventos, performances e outros
 
 <!-- 
 Em href="" colocar dentro das aspas o link 
-do caminho do arquivo audios.md do respectivo ano
+do caminho do arquivo fotos.md do respectivo ano
 -->
 
 # Descubra as fotos ao longo dos anos
