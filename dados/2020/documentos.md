@@ -13,7 +13,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ## Cartas
 <ul>
 	<li>Carta ao reitor Vahan Agopyan e gabinete</li>
-	<h4>**[19/03/2020]</h4>
+	<h4>[19/03/2020]</h4>
 	<p>Carta protocolada pelos moradores do Bloco F do CRUSP em meio à quarentena do COVID-19 "por razões de falta de suporte e uma atuação limitada da Superintendência de Assistência Social (SAS) frente a não resolução dos problemas relatados à mesma".</p>
 	<ul>
 		<li>
@@ -22,7 +22,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</li>
 	</ul>
 	<li>Carta à FEA (docentes e diretor Fábio Frezatti)</li>
-	<h4>**[19/03/2020]</h4>
+	<h4>[19/03/2020]</h4>
 	<p>Carta aberta assinada por 11 discentes e moradores do CRUSP em meio à quarentena do COVID-19 "por objetivo elucidar a real situação enfrentada por nós, alunos da FEA que residimos no Conjunto Residencial da USP (CRUSP) de modo a deixar claro a vulnerabilidade a qual estamos expostos".<p>
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1A5d8OMffGuRoEbMazpvRVR98j4wH-xL0" target="_blank">Carta à FEA</a></li>
