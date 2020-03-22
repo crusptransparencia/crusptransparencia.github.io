@@ -13,7 +13,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ## Infraestrutura F
 <ul>
 	<li>Cozinhas Bloco F</li>
-	<h4>[20/03/2020]</h4>
+	<b>[20/03/2020]</b>
 	<p>Vídeos mostrando o estado desestruturação e abandono das cozinhas comunitárias do bloco F do CRUSP.</p>
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1tQeTZzb3QSEt3kxcqYRbTgOoq8qXcPQ4" target="_blank">Bloco F (parte 1)</a></li>
