@@ -15,6 +15,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
   {% for imagem in site.fotos.2020.blocoF %}
     <li>
       <img src="{{ imagem.url }}">
+	  <p>{{ imagem.url }}</p>
     </li>
   {% endfor %}
 </ul>
