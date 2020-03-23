@@ -24,8 +24,8 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <div class="row justify-content-center">
 	<div class="col-md-8">
 		<div class="row">
-			<a href="./img.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-				<img src="./img.jpeg" class="img-fluid">
+			<a href="./andar1/1.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+				<img src="./andar1/1.jpg" class="img-fluid">
 			</a>
 		</div>
 	</div>
