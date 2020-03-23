@@ -14,13 +14,3 @@ do caminho do arquivo fotos.md do respectivo ano
 * <a href="\dados\2019\fotos">2019</a>
 * <a href="\dados\2018\fotos">2018</a>
 * <a href="\dados\2017\fotos">2017</a>
-
-## CRUSP BLOCO F
-<ul>
-  {% for imagem in site.fotos %}
-    <li>
-      <img src="{{ imagem.url }}">
-	  <p>{{ imagem.url }}</p>
-    </li>
-  {% endfor %}
-</ul>

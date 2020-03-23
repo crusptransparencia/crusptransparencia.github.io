@@ -11,11 +11,13 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 -->
 
 ## CRUSP BLOCO F
+### 6o ANDAR
+
 <ul>
-  {% for imagem in site.fotos.2020.blocoF %}
+  {% for i in range() %}
     <li>
-      <img src="{{ imagem.url }}">
-	  <p>{{ imagem.url }}</p>
+      <!-- <img src="{{ i }}.jpeg"> -->
+	  <p>{{ i }}.jpeg</p>
     </li>
   {% endfor %}
 </ul>
