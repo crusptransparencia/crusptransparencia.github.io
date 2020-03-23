@@ -18,8 +18,8 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1r1KNRLiOqFpINm9027zI-j36EMauxwSM" target="_blank">Carta ao Reitor [alt F4]</a></li>
 		<div class = "row">
-			<div class = "column"><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
-			<div class = "column"><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
+			<div class = "column" style="width:100%"><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
+			<div class = "column" style="width:100%"><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
 		</div>
 	</ul>
 	<p></p>
