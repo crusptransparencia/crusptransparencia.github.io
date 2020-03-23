@@ -18,8 +18,8 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1r1KNRLiOqFpINm9027zI-j36EMauxwSM" target="_blank">Carta ao Reitor [alt F4]</a></li>
 		<div class = "row">
-			<div class = "column" style="width:45%"><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
-			<div class = "column" style="width:45%"><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
+			<div class = "column" style="width:100%"><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
+			<div class = "column" style="width:100%"><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
 		</div>
 	</ul>
 	<p></p>
@@ -37,3 +37,19 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		<li><a href="https://drive.google.com/open?id=1J8PdplpnlIPub8qlrdgFfzr-Hn1y-2fh" target="_blank">Carta à mídia</a></li>
 	</ul>
 </ul>
+
+<style>
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 49.9%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+</style>
