@@ -16,9 +16,9 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<b>[20/03/2020]</b>
 	<p>Vídeos mostrando o estado desestruturação e abandono das cozinhas comunitárias do bloco F do CRUSP.</p>
 	<p>Parte 1</p>
-	<iframe src="https://drive.google.com/file/d/1tQeTZzb3QSEt3kxcqYRbTgOoq8qXcPQ4/preview" width="781" height="440"></iframe>
+	<iframe src="https://drive.google.com/file/d/1B6e5Qu22pULhK9-46ggjcLA_N8H3umXv/preview" width="781" height="440"></iframe>
 	<p>Parte 2</p>
-	<iframe src="https://drive.google.com/file/d/1-JFUHE1vJbNYsKyXkPGcW-A4TVX_TWSR/preview" width="781" height="440"></iframe>
+	<iframe src="https://drive.google.com/file/d/1pguVIj_P2_Hqu3cqYhGnNAUlAxLFPDVf/preview" width="781" height="440"></iframe>
 </ul>
 
 ## Reitoria
