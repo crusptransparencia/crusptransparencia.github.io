@@ -15,7 +15,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 
 <b>[22/03/2020]</b>
 <p></p>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/1.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/1.jpg" class="img-fluid"></a>
@@ -24,7 +24,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/4.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/4.jpg" class="img-fluid"></a>
@@ -33,7 +33,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/7.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/7.jpg" class="img-fluid"></a>
@@ -42,7 +42,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/10.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/10.jpg" class="img-fluid"></a>
@@ -51,7 +51,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/13.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/13.jpg" class="img-fluid"></a>
@@ -60,7 +60,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/16.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/16.jpg" class="img-fluid"></a>
@@ -69,7 +69,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		</div>
 	</div>
 </div>
-<div class="row justify-content-center">
+<div class="row">
 	<div class="col-md-8">
 		<div class="row">
 			<a href="./andar1/19.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/19.jpg" class="img-fluid"></a>
