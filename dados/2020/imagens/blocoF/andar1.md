@@ -16,11 +16,11 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <b>[22/03/2020]</b>
 <p></p>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/1.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/1.jpg" class="img-fluid"></a>
-			<a href="./andar1/2.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/2.jpg" class="img-fluid"></a>
-			<a href="./andar1/3.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/3.jpg" class="img-fluid"></a>
+			<a href="./andar1/1.jpg" data-toggle="lightbox" class="column"><img src="./andar1/1.jpg" class="img-fluid"></a>
+			<a href="./andar1/2.jpg" data-toggle="lightbox" class="column"><img src="./andar1/2.jpg" class="img-fluid"></a>
+			<a href="./andar1/3.jpg" data-toggle="lightbox" class="column"><img src="./andar1/3.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
