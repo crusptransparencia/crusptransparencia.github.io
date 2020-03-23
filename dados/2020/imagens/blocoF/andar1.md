@@ -46,21 +46,6 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <div class = "row">
 	<div class = "column" style="width:100%"><img src="./andar1/19.jpg"></div>
 	<div class = "column" style="width:100%"><img src="./andar1/20.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/21.jpg"></div>
-</div>
-<div class = "row">
-	<div class = "column" style="width:100%"><img src="./andar1/22.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/23.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/24.jpg"></div>
-</div>
-<div class = "row">
-	<div class = "column" style="width:100%"><img src="./andar1/25.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/26.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/27.jpg"></div>
-</div>
-<div class = "row">
-	<div class = "column" style="width:100%"><img src="./andar1/28.jpg"></div>
-	<div class = "column" style="width:100%"><img src="./andar1/29.jpg"></div>
 </div>
 
 
