@@ -26,5 +26,5 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<li>Entrega da carta ao Reitor</li>
 	<b>[19/03/2020]</b>
 	<p>Vídeo mostrando a entrega da carta que foi encaminhada ao gabinete do Reitor sob demanda de necessidades urgentes dos moradores do CRUSP.</p>
-	<iframe src="https://drive.google.com/file/d/1DNtT58BE3C_GGaZ5esOF0NrGJ5BSl7ZM/preview" width="785" height="441"></iframe>
+	<iframe src="https://drive.google.com/file/d/1ee_RQ7YAOvCIFnbf7cMNGHIxZsh7Ocm_/preview" width="781" height="440"></iframe>
 </ul>
