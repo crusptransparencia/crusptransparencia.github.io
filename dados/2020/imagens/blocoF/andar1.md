@@ -4,13 +4,6 @@ title: Fotos 2020 - CRUSP BLOCO F 1o ANDAR
 description: Registro de fotografias
 ---
 
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"/>
-
 <!-- 
 Em href="" colocar dentro das aspas o link 
 do arquivo seja no drive ou no próprio github
