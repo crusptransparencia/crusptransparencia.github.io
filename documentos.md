@@ -11,6 +11,6 @@ do caminho do arquivo documentos.md do respectivo ano
 
 # Descubra os documentos ao longo dos anos
 * <a href="\dados\2020\documentos">2020</a>
-* <a href="\dados\2019\documentos">2019</a>
-* <a href="\dados\2018\documentos">2018</a>
-* <a href="\dados\2017\documentos">2017</a>
+* <a href="">2019</a>
+* <a href="">2018</a>
+* <a href="">2017</a>

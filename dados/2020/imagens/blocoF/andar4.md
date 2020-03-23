@@ -13,6 +13,8 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ## CRUSP BLOCO F
 ### 4o ANDAR
 
+<b>[22/03/2020]</b>
+<p></p>
 <div class = "row">
 	<div class = "column" style="width:100%"><img src="./andar4/1.jpg"></div>
 	<div class = "column" style="width:100%"><img src="./andar4/2.jpg"></div>

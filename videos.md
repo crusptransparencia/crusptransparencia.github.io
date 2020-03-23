@@ -11,6 +11,6 @@ do caminho do arquivo videos.md do respectivo ano
 
 # Descubra os vídeos ao longo dos anos
 * <a href="\dados\2020\videos">2020</a>
-* <a href="\dados\2019\videos">2019</a>
-* <a href="\dados\2018\videos">2018</a>
-* <a href="\dados\2017\videos">2017</a>
+* <a href="">2019</a>
+* <a href="">2018</a>
+* <a href="">2017</a>

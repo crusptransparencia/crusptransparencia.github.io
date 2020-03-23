@@ -11,6 +11,6 @@ do caminho do arquivo audios.md do respectivo ano
 
 # Descubra os áudios ao longo dos anos
 * <a href="\dados\2020\audios">2020</a>
-* <a href="\dados\2019\audios">2019</a>
-* <a href="\dados\2018\audios">2018</a>
-* <a href="\dados\2017\audios">2017</a>
+* <a href="">2019</a>
+* <a href="">2018</a>
+* <a href="">2017</a>
