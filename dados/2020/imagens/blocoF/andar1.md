@@ -16,7 +16,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <b>[22/03/2020]</b>
 <p></p>
 <div class = "row">
-	<div class = "column" style="width:100%"><img src="./andar1/1.jpg"></div>
+	<div class = "column" style="width:100%"><a href="./andar1/1.jpg" data-toggle="lightbox"><img src="./andar1/1.jpg"></a></div>
 	<div class = "column" style="width:100%"><img src="./andar1/2.jpg"></div>
 	<div class = "column" style="width:100%"><img src="./andar1/3.jpg"></div>
 </div>
