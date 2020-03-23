@@ -10,19 +10,11 @@ do arquivo seja no drive ou no próprio github
 LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 -->
 
-## Tipo 1
+## CRUSP BLOCO F
 <ul>
-	<li>Item 1</li>
-	<b>[DD/MM/AAAA]</b>
-	<p>Descrição do conteúdo</p>
-	<ul>
-		<li><a href="" target="_blank">Link para o conteúdo</a></li>
-	</ul>
-	<p></p>
-	<li>Item 2</li>
-	<b>[DD/MM/AAAA]</b>
-	<p>Descrição do conteúdo</p>
-	<ul>
-		<li><a href="" target="_blank">Link para o conteúdo</a></li>
-	</ul>
+  {% for imagem in site.fotos.2020.blocoF %}
+    <li>
+      <img src="{{ imagem.url }}">
+    </li>
+  {% endfor %}
 </ul>
