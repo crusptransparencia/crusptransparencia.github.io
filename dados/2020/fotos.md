@@ -14,7 +14,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ### 6o ANDAR
 
 <ul>
-  {% for i in range() %}
+  {% for i in range(10) %}
     <li>
       <!-- <img src="{{ i }}.jpeg"> -->
 	  <p>{{ i }}.jpeg</p>
