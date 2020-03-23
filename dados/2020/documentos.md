@@ -17,8 +17,10 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Carta protocolada pelos moradores do Bloco F do CRUSP em meio à quarentena do COVID-19 "por razões de falta de suporte e uma atuação limitada da Superintendência de Assistência Social (SAS) frente a não resolução dos problemas relatados à mesma".</p>
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1r1KNRLiOqFpINm9027zI-j36EMauxwSM" target="_blank">Carta ao Reitor [alt F4]</a></li>
-		<div><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
-		<div><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
+		<div class = "row">
+			<div class = "column"><img src="./imagens/foto_entrega_da_carta_10_03_2020.jpeg"></div>
+			<div class = "row"><img src="./imagens/carta_ao_reitor_assinada.jpeg"></div>
+		</div>
 	</ul>
 	<p></p>
 	<li>Carta à FEA (docentes e diretor Fábio Frezatti)</li>
