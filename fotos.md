@@ -17,7 +17,7 @@ do caminho do arquivo fotos.md do respectivo ano
 
 ## CRUSP BLOCO F
 <ul>
-  {% for imagem in site.fotos.2020.blocoF %}
+  {% for imagem in site.fotos %}
     <li>
       <img src="{{ imagem.url }}">
 	  <p>{{ imagem.url }}</p>
