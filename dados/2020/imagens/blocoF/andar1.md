@@ -18,62 +18,62 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <div class="row">
 	<div class="col">
 		<div class="row">
-			<a href="./andar1/1.jpg" data-toggle="lightbox" class="column"><img src="./andar1/1.jpg" class="img-fluid"></a>
-			<a href="./andar1/2.jpg" data-toggle="lightbox" class="column"><img src="./andar1/2.jpg" class="img-fluid"></a>
-			<a href="./andar1/3.jpg" data-toggle="lightbox" class="column"><img src="./andar1/3.jpg" class="img-fluid"></a>
+			<a href="./andar1/1.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/1.jpg" class="img-fluid"></a>
+			<a href="./andar1/2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/2.jpg" class="img-fluid"></a>
+			<a href="./andar1/3.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/3.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/4.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/4.jpg" class="img-fluid"></a>
-			<a href="./andar1/5.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/5.jpg" class="img-fluid"></a>
-			<a href="./andar1/6.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/6.jpg" class="img-fluid"></a>
+			<a href="./andar1/4.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/4.jpg" class="img-fluid"></a>
+			<a href="./andar1/5.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/5.jpg" class="img-fluid"></a>
+			<a href="./andar1/6.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/6.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/7.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/7.jpg" class="img-fluid"></a>
-			<a href="./andar1/8.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/8.jpg" class="img-fluid"></a>
-			<a href="./andar1/9.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/9.jpg" class="img-fluid"></a>
+			<a href="./andar1/7.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/7.jpg" class="img-fluid"></a>
+			<a href="./andar1/8.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/8.jpg" class="img-fluid"></a>
+			<a href="./andar1/9.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/9.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/10.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/10.jpg" class="img-fluid"></a>
-			<a href="./andar1/11.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/11.jpg" class="img-fluid"></a>
-			<a href="./andar1/12.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/12.jpg" class="img-fluid"></a>
+			<a href="./andar1/10.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/10.jpg" class="img-fluid"></a>
+			<a href="./andar1/11.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/11.jpg" class="img-fluid"></a>
+			<a href="./andar1/12.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/12.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/13.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/13.jpg" class="img-fluid"></a>
-			<a href="./andar1/14.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/14.jpg" class="img-fluid"></a>
-			<a href="./andar1/15.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/15.jpg" class="img-fluid"></a>
+			<a href="./andar1/13.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/13.jpg" class="img-fluid"></a>
+			<a href="./andar1/14.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/14.jpg" class="img-fluid"></a>
+			<a href="./andar1/15.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/15.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/16.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/16.jpg" class="img-fluid"></a>
-			<a href="./andar1/17.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/17.jpg" class="img-fluid"></a>
-			<a href="./andar1/18.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/18.jpg" class="img-fluid"></a>
+			<a href="./andar1/16.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/16.jpg" class="img-fluid"></a>
+			<a href="./andar1/17.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/17.jpg" class="img-fluid"></a>
+			<a href="./andar1/18.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/18.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-8">
+	<div class="col">
 		<div class="row">
-			<a href="./andar1/19.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/19.jpg" class="img-fluid"></a>
-			<a href="./andar1/20.jpg" data-toggle="lightbox" class="col-sm-4"><img src="./andar1/20.jpg" class="img-fluid"></a>
+			<a href="./andar1/19.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/19.jpg" class="img-fluid"></a>
+			<a href="./andar1/20.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="column"><img src="./andar1/20.jpg" class="img-fluid"></a>
 		</div>
 	</div>
 </div>
