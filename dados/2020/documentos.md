@@ -4,8 +4,8 @@ title: Documentos 2020
 description: Registro de cartas, petições, assembleias e outros
 ---
 
-<!-- 
-Em href="" colocar dentro das aspas o link 
+<!--
+Em href="" colocar dentro das aspas o link
 do arquivo seja no drive ou no próprio github
 LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 -->
@@ -66,6 +66,26 @@ Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assiste
 	</ul>
 </ul>
 
+<ul>
+	<li>ig - Ultimo Segundo</li>
+	<b>[23/03/2020]</b>
+	<p>Notícia do jornal IG - Ultimo Segundo - "Alunos de baixa renda relatam precariedade na moradia da Universidade e temem pela saúde em meio ao surto da doença em São Paulo".</p>
+	<ul>
+		<li><a href="https://ultimosegundo.ig.com.br/educacao/2020-03-23/estamos-completamente-abandonados-aqui-dizem-estudantes-que-moram-na-usp.html" target="_blank">Coronavírus: 'Estamos completamente abandonados aqui', dizem alunos que moram na USP</a></li>
+	</ul>
+</ul>
+
+<ul>
+	<li>Adusp</li>
+	<b>[23/03/2020]</b>
+	<p>Notícia da Adusp - "Estudantes que moram no Crusp cobram da Reitoria medidas urgentes contra a epidemia".</p>
+	<ul>
+		<li><a href="https://www.adusp.org.br/index.php/defesauniv/3596-estudantes-que-moram-no-crusp-cobram-da-reitoria-medidas-urgentes-contra-a-epidemia" target="_blank">Situação é crítica: os blocos necessitam de iluminação e reparos de todo tipo nas cozinhas e lavanderias e a maioria dos apartamentos não tem wi-fi. Além disso, falta segurança</a></li>
+	</ul>
+</ul>
+
+
+
 <style>
  /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
@@ -79,5 +99,5 @@ Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assiste
   content: "";
   clear: both;
   display: table;
-} 
+}
 </style>
