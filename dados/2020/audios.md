@@ -14,7 +14,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <ul>
 	<li>Cerceamento do RU das Químicas</li>
 	<b>[24/03/2020]</b>
-	<p>Áudios relatando o cerceamento do acesso ao RU pelos alunos da USP. Cerceamento que garantia acesso apenas a morador@s do CRUSP (que constavam com nome em uma lista entregue pela SAS aos profissionais do RU).</p>
+	<p>Áudios relatando o cerceamento do acesso ao RU. Cerceamento que garantia acesso apenas a morador@s do CRUSP (que constavam com nome em uma lista entregue pela SAS aos profissionais do RU).</p>
 	<ul>
 		<li>Parte 1</li>
 		<audio controls autoplay class="audioControl">
