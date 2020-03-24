@@ -84,6 +84,17 @@ Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assiste
 	</ul>
 </ul>
 
+<ul>
+	<li>Yahoo</li>
+	<b>[23/03/2020]</b>
+	<p>Entrevista ao jornal Yahoo sobre o que enfrentamos no CRUSP.</p>
+	<ul>
+		<li><a href="https://br.noticias.yahoo.com/coronavirus-estudantes-de-baixa-renda-que-moram-na-usp-relatam-abandono-em-meio-a-pandemia-140538167.html" target="_blank">"Parece meio distópico, meio Bacurau, mas essa é a realidade em que a gente vive”</a></li>
+	</ul>
+</ul>
+
+
+
 
 
 <style>
