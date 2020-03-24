@@ -22,4 +22,4 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ## PAREDES DO CRUSP
 <b>[23/03/2020]</b>
 <p>O quão grossas são as paredes do CRUSP ?</p>
-<p><img src="./imagens/paredes/1.jpeg" alt="Parede do CRUSP" title="Parede do CRUSP" /></p>
+<p><img src="./imagens/paredes/1.jpeg" alt="Parede do CRUSP" title="Parede do CRUSP" width="781" height="440" /></p>
