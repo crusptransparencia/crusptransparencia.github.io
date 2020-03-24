@@ -30,9 +30,10 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 
 <style>
 .audioControl {
-    width: 100%;
+    width: 85%;
+	border-radius: 16px 0 16px 0;
 }
 .audioControl:hover {
-    box-shadow: 0 0 8px 1px rgba(21, 122, 118, 0.2)
+    box-shadow: 0 0 8px 2px rgba(21, 122, 118, 0.2)
 }
 </style>
