@@ -32,7 +32,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 ## Lavanderia Bloco F
 <ul>
 	<li>Lavanderia Bloco F</li>
-	<b>[19/03/2020]</b>
+	<b>[23/03/2020]</b>
 	<p>Vídeo mostrando o estado de abandono da lavanderia do bloco F e informes sobre as tentativas de entregas de cartas dos estudantes da pós graduação e dos estudantes da graduação à SAS e a reitoria.</p>
 	<iframe src="https://drive.google.com/file/d/1z6HGbO3UVdthrlHphNVwWyXNuZfT9t38/preview" width="781" height="440"></iframe>
 </ul>
