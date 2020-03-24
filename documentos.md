@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentos 2020
+title: Documentos
 description: Registro de cartas, petições, assembleias e outros
 ---
 
