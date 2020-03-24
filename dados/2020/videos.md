@@ -36,3 +36,11 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Vídeo mostrando o estado de abandono da lavanderia do bloco F e informes sobre as tentativas de entregas de cartas dos estudantes da pós graduação e dos estudantes da graduação à SAS e a reitoria.</p>
 	<iframe src="https://drive.google.com/file/d/1z6HGbO3UVdthrlHphNVwWyXNuZfT9t38/preview" width="781" height="440"></iframe>
 </ul>
+
+##Paredes
+<ul>
+	<li>Paredes do CRUSP</li>
+	<b>[23/03/2020]</b>
+	<p>Vídeo mostrando como é incabivel a declaração da STI de que um dos agravantes da falta de internet é a grossura das paredes do CRUSP.</p>
+	<iframe src="https://drive.google.com/file/d/1CltrDWWN9qHiAYWhKUUepNPQx80ysObI/preview" width="781" height="440"></iframe>
+</ul>
