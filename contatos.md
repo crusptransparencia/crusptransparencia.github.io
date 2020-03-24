@@ -21,15 +21,20 @@ do caminho do arquivo audios.md do respectivo ano
 <ul>
     <b>Emails</b>
     <li>Divisão de Promoção Social (DPS): <a href="mailto:dps@usp.br">dps@usp.br</a></li>
+    <li>Seção de Serviço Social: <a href="mailto:ssocialsas@usp.br">ssocialsas@usp.br</a></li>
     <b>Telefones</b>
     <li>Divisão de Promoção Social (DPS): <a href="tel:+551130910118">(11) 3091-0118</a></li>
+    <li>Superintendência de Assistência Social (SAS): <a href="tel:+551130912043">(11) 3091-2043</a></li>
+    <li>Seção de Serviço Social: <a href="tel:+551130912036">(11) 3091-2036</a></li>
+    <p></p>
+    <button href="https://sites.usp.br/sas/telefones-sas/">Mais telefones...</button>
 </ul>
 
-<h3>Acolhe USP</h3>
+<h3>Outras Entidades</h3>
 <ul>
     <b>Emails</b>
-    <li><a href="mailto:acolheusp@usp.br">acolheusp@usp.br</a></li>
+    <li>Acolhe USP: <a href="mailto:acolheusp@usp.br">acolheusp@usp.br</a></li>
     <b>Telefones</b>
-    <li><a href="tel:"></a></li>
+    <li>Acolhe USP: <a href="tel:+551130918345">(11) 3091-8345</a></li>
 
 </ul>
