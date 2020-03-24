@@ -46,13 +46,13 @@ Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assiste
 	<b>[03-20/03/2020]</b>
 	<p>Notas de esclarecimentos e respostas da Superintendencia de Assistencia Social (SAS) aos moradores do CRUSP em resposta dos pedidos de esclarecimento dos estudantes no contexto de pandemia.</p>
 	<ul>
-		<li><a href="https://drive.google.com/open?id=1-rJCJsF9Gs8glYj220QTe5yulX03XGWR" target="_blank">Acolhimento do CRUSP no enfrentamento ao coronavírus.</a></li>
-		<li><a href="https://drive.google.com/open?id=1UVeP1YyqtPOlFCkSPdWDXIA9UsHCPcnZ" target="_blank">Esclarecimento à Comunidade sobre o Coronavírus (COVID-19)</a></li>
-		<li><a href="https://drive.google.com/open?id=1e9QC9C3lzgO2cbnUgECbotmGwVO5MhP3" target="_blank">Informe da SAS aos moradores do CRUSP</a></li>
-		<li><a href="https://drive.google.com/open?id=131OWTti3A-B_c87dYX7YEq0ZHwo3EHb4" target="_blank">Informe da SAS aos moradores(as) do CRUSP</a></li>
-		<li><a href="https://drive.google.com/open?id=1Kss-0G5FwKRJLOToHRoh50B-NqjmJdxh	" target="_blank">Levantamento Urgente Visando Ações Emergenciais no CRUSP</a></li>
-		<li><a href="https://drive.google.com/open?id=1a74h7jOCY1n-roUBVvX-PzDGGFZ1NQdt" target="_blank">Nota de esclarecimento aos moradores do CRUSP</a></li>
-		<li><a href="https://drive.google.com/open?id=10J6QuljuNvyMgQkhuc7AJxOYAFTM_nhy" target="_blank">SAS - Moradores(as) do CRUSP</a></li>
+		<li><a href="https://drive.google.com/file/d/1o934nJMxlLpLmxY1qYJCJY4V0Ro7w_p7/preview" target="_blank">Acolhimento do CRUSP no enfrentamento ao coronavírus.</a></li>
+		<li><a href="https://drive.google.com/file/d/1RVBvHMvWdDMas9EqIe9lliWbyumjDOHe/preview" target="_blank">Esclarecimento à Comunidade sobre o Coronavírus (COVID-19)</a></li>
+		<li><a href="https://drive.google.com/open?id=1dhCL_zpO66KoXs3AxLu22G6A0GtX4-V8/preview" target="_blank">Informe da SAS aos moradores do CRUSP</a></li>
+		<li><a href="https://drive.google.com/open?id=1Mci3q5kwl67KseSzEs-ZlR4in_Uqw3xd/preview" target="_blank">Informe da SAS aos moradores(as) do CRUSP</a></li>
+		<li><a href="https://drive.google.com/open?id=1UAF9udSf1Pa6QaiGZ0c-nUSlm7h6t1HC/preview" target="_blank">Levantamento Urgente Visando Ações Emergenciais no CRUSP</a></li>
+		<li><a href="https://drive.google.com/open?id=19O7nu9HjL-HjnN8xpfQSQzO0FI30Du2t/preview" target="_blank">Nota de esclarecimento aos moradores do CRUSP</a></li>
+		<li><a href="https://drive.google.com/open?id=1UVUWtM3dr6c3tRhqd2PNYy-gK8VFgW2d/preview" target="_blank">SAS - Moradores(as) do CRUSP</a></li>
 	</ul>
 </ul>
 
