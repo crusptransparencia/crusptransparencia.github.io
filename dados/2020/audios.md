@@ -17,16 +17,22 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Áudios relatando o cerceamento do acesso ao RU pelos alunos da USP. Cerceamento que garantia acesso apenas a morador@s do CRUSP (que constavam com nome em uma lista entregue pela SAS aos profissionais do RU).</p>
 	<ul>
 		<li>Parte 1</li>
-		<audio controls autoplay style="width:500px">
+		<audio controls autoplay class="audioControl">
 			<source src="./audios/bandejao/relato_bandejao_24_03_2020_1.ogg">
 		</audio>
 		<li>Parte 2</li>
-		<audio controls autoplay style="width:500px">
+		<audio controls autoplay class="audioControl">
 			<source src="./audios/bandejao/relato_bandejao_24_03_2020_2.ogg">
 		</audio>
 	</ul>
 </ul>
 
-<!-->
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="./teste.html" height="525" width="100%"></iframe>
--->
+
+<style>
+.audioControl {
+    width: 100%;
+}
+.audioControl:hover {
+    box-shadow: 0 0 8px 1px rgba(21, 122, 118, 0.2)
+}
+</style>
