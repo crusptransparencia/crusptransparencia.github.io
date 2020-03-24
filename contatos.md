@@ -27,7 +27,7 @@ do caminho do arquivo audios.md do respectivo ano
     <li>Superintendência de Assistência Social (SAS): <a href="tel:+551130912043">(11) 3091-2043</a></li>
     <li>Seção de Serviço Social: <a href="tel:+551130912036">(11) 3091-2036</a></li>
     <p></p>
-    <button href="https://sites.usp.br/sas/telefones-sas/">Mais telefones...</button>
+    <a href="https://sites.usp.br/sas/telefones-sas/" target="_blank" style="color:black">+ telefones...</a>
 </ul>
 
 <h3>Outras Entidades</h3>
