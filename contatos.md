@@ -14,15 +14,15 @@ do caminho do arquivo audios.md do respectivo ano
     <b>Emails</b>
     <li><a href="mailto:"></a></li>
     <b>Telefones</b>
-    <a href="tel:"></a>
+    <li><a href="tel:"></a></li>
 </ul>
 
 <h3>SAS</h3>
 <ul>
     <b>Emails</b>
-    <li><a href="mailto:"></a></li>
+    <li>Divisão de Promoção Social (DPS): <a href="mailto:dps@usp.br">dps@usp.br</a></li>
     <b>Telefones</b>
-    <a href="tel:"></a>
+    <li>Divisão de Promoção Social (DPS): <a href="tel:+551130910118">(11) 3091-0118</a></li>
 </ul>
 
 <h3>Acolhe USP</h3>
@@ -30,5 +30,6 @@ do caminho do arquivo audios.md do respectivo ano
     <b>Emails</b>
     <li><a href="mailto:acolheusp@usp.br">acolheusp@usp.br</a></li>
     <b>Telefones</b>
-    <a href="tel:"></a>
+    <li><a href="tel:"></a></li>
+
 </ul>
