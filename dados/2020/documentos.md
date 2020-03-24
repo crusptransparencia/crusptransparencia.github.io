@@ -56,6 +56,16 @@ Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assiste
 	</ul>
 </ul>
 
+## Notícias
+<ul>
+	<li>OGlobo</li>
+	<b>[23/03/2020]</b>
+	<p>Notícia do jornal OGlobo - "Estudantes de baixa renda relatam precariedade em alojamento universitário e temem pela própria saúde em meio à epidemia de Covid-19 em São Paulo".</p>
+	<ul>
+		<li><a href="https://oglobo.globo.com/sociedade/coronavirus-estamos-completamente-abandonados-aqui-dizem-alunos-que-moram-na-usp-24323012?fbclid=IwAR1iV4bvVxpBZF99mNhjWG81dfSfh7PjHh5p7JGOyZkGlirLLtmQQV5XNh8" target="_blank">Coronavírus: 'Estamos completamente abandonados aqui', dizem alunos que moram na USP</a></li>
+	</ul>
+</ul>
+
 <style>
  /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
