@@ -10,23 +10,30 @@ do arquivo seja no drive ou no próprio github
 LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 -->
 
-## Tipo 1
+## Bandejão
 <ul>
-	<li>Item 1</li>
-	<b>[DD/MM/AAAA]</b>
-	<p>Descrição do conteúdo</p>
+	<li>Cerceamento do RU das Químicas</li>
+	<b>[24/03/2020]</b>
+	<p>Áudios relatando o cerceamento do acesso ao RU. Cerceamento que garantia acesso apenas a morador@s do CRUSP (que constavam com nome em uma lista entregue pela SAS aos profissionais do RU).</p>
 	<ul>
-		<li><a href="" target="_blank">Link para o conteúdo</a></li>
-	</ul>
-	<p></p>
-	<li>Item 2</li>
-	<b>[DD/MM/AAAA]</b>
-	<p>Descrição do conteúdo</p>
-	<ul>
-		<li><a href="" target="_blank">Link para o conteúdo</a></li>
+		<li>Parte 1</li>
+		<audio controls autoplay class="audioControl">
+			<source src="./audios/bandejao/relato_bandejao_24_03_2020_1.ogg">
+		</audio>
+		<li>Parte 2</li>
+		<audio controls autoplay class="audioControl">
+			<source src="./audios/bandejao/relato_bandejao_24_03_2020_2.ogg">
+		</audio>
 	</ul>
 </ul>
 
-<!-->
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="./teste.html" height="525" width="100%"></iframe>
--->
+
+<style>
+.audioControl {
+    width: 85%;
+	border-radius: 16px 0 16px 0;
+}
+.audioControl:hover {
+    box-shadow: 0 0 8px 2px rgba(21, 122, 118, 0.2)
+}
+</style>
