@@ -15,6 +15,8 @@ do caminho do arquivo audios.md do respectivo ano
     <li><a href="mailto:"></a></li>
     <b>Telefones</b>
     <li><a href="tel:"></a></li>
+    <p></p>
+    <a href="https://uspdigital.usp.br/telefonia/unidadeTelefoneListar?codigoLocal=8&siglaUnidade=RUSP&nomeUnidade=Reitoria%20da%20Universidade%20de%20S%E3o%20Paulo" target="_blank" style="color:black">+ telefones...</a>
 </ul>
 
 <h3>SAS</h3>
