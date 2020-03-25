@@ -36,6 +36,13 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<ul>
 		<li><a href="https://drive.google.com/open?id=1J8PdplpnlIPub8qlrdgFfzr-Hn1y-2fh" target="_blank">Carta à mídia</a></li>
 	</ul>
+	<p></p>
+	<li>Informe do Bloco F</li>
+	<b>[24/03/2020]</b>
+	<p>As cartas protocoladas na reitoria e na SAS não foram respondidas pela instituição, houveram mais tentativas de protocolar documentos relatando nossa sitação e pedindo melhorarias, isto aponta total negligência da USP para com os moradores do CRUSP.</p>
+	<ul>
+		<li><a href="https://drive.google.com/file/d/1J49--0n9d1rafAqJp8dLx4sfVNywwD9T/preview" target="_blank">Informes Bloco F</a></li>
+	</ul>
 </ul>
 03-20/03/2020
 Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assistencia Social (SAS) aos moradores do CRUSP em resposta dos pedidos de esclarecimento dos estudantes no contexto de pandemia.
