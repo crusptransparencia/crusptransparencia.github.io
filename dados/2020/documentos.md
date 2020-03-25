@@ -44,8 +44,6 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		<li><a href="https://drive.google.com/file/d/1J49--0n9d1rafAqJp8dLx4sfVNywwD9T/preview" target="_blank">Informes Bloco F</a></li>
 	</ul>
 </ul>
-03-20/03/2020
-Descrição: Notas de esclarecimentos e respostas da Superintendencia de Assistencia Social (SAS) aos moradores do CRUSP em resposta dos pedidos de esclarecimento dos estudantes no contexto de pandemia.
 
 ## Emails
 <ul>
