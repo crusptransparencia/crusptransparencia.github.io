@@ -49,7 +49,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Carta das moradoras e moradores do CRUSP aos docentes da Universidade de São Paulo, se posicionando contra
 	a manutenção do semestre em EAD, pedindo a devida suspensão imediata dessa modalidade.</p>
 	<ul>
-		<li><a href="https://drive.google.com/open?id=1TXbsgAS9S5I2P5OEaJF0nuIjhZ4mUFYY/preview" target="_blank">Informes Bloco F</a></li>
+		<li><a href="https://drive.google.com/open?id=1TXbsgAS9S5I2P5OEaJF0nuIjhZ4mUFYY/preview" target="_blank">Carta aos docentes</a></li>
 	</ul>
 </ul>
 
