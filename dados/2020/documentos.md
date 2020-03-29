@@ -81,7 +81,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<b>[28/03/2020]</b>
 	<p>Notícia do jornal UOL - "Aluno da USP morre por covid-19; moradores do CRUSP recebem kit de limpeza".</p>
 	<ul>
-		<li><a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/28/usp-confirma-morte-em-hospital-universitario-por-coronavirus.htm" target="_blank">Em situação de pandemia, morre o primeiro aluno da USP, e cruspianos temem pela infraestrutura da moradia estudantil</a></li>
+		<li><a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/28/usp-confirma-morte-em-hospital-universitario-por-coronavirus.htm" target="_blank">Em situação de pandemia, morre o primeiro aluno da USP vítima do COVID-19, e cruspianos temem pela infraestrutura da moradia estudantil</a></li>
 	</ul>
 	<li>OGlobo</li>
 	<b>[23/03/2020]</b>
