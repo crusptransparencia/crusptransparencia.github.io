@@ -77,12 +77,18 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<ul>
 		<li><a href="https://saude.estadao.com.br/noticias/geral,alunos-que-moram-na-usp-temem-avanco-do-coronavirus-por-falta-de-estrutura-e-condicoes-de-higiene,70003252067?utm_source=estadao:whatsapp&utm_medium=link" target="_blank">Sem internet, também não sabem como continuarão a assistir às aulas e a fazer provas</a></li>
 	</ul>
+</ul>
+
+<ul>
 	<li>UOL</li>
 	<b>[28/03/2020]</b>
 	<p>Notícia do jornal UOL - "Aluno da USP morre por covid-19; moradores do CRUSP recebem kit de limpeza".</p>
 	<ul>
 		<li><a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/28/usp-confirma-morte-em-hospital-universitario-por-coronavirus.htm" target="_blank">Em situação de pandemia, morre o primeiro aluno da USP vítima do COVID-19, e cruspianos temem pela infraestrutura da moradia estudantil</a></li>
 	</ul>
+</ul>
+
+<ul>
 	<li>OGlobo</li>
 	<b>[23/03/2020]</b>
 	<p>Notícia do jornal OGlobo - "Estudantes de baixa renda relatam precariedade em alojamento universitário e temem pela própria saúde em meio à epidemia de Covid-19 em São Paulo".</p>
