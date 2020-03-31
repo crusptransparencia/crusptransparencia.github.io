@@ -70,6 +70,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 </ul>
 
 ## Notícias
+
 <ul>
 	<li>Estadão</li>
 	<b>[28/03/2020]</b>
@@ -98,6 +99,15 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 </ul>
 
 <ul>
+	<li>Blog da Cidadania</li>
+	<b>[23/03/2020]</b>
+	<p>Notícia do Blog da Cidadania - "Moradores do Crusp denunciam precariedade no alojamento".</p>
+	<ul>
+		<li><a href="https://blogdacidadania.com.br/2020/03/moradores-do-crusp-denunciam-precariedade-no-alojamento/" target="_blank">Moradores do Conjunto Residencial da USP (Crusp), voltado a estudantes de baixa renda, dizem ter sido abandonados pela universidade em meio à epidemia do novo coronavírus !</a></li>
+	</ul>
+</ul>
+
+<ul>
 	<li>ig - Ultimo Segundo</li>
 	<b>[23/03/2020]</b>
 	<p>Notícia do jornal IG - Ultimo Segundo - "Alunos de baixa renda relatam precariedade na moradia da Universidade e temem pela saúde em meio ao surto da doença em São Paulo".</p>
@@ -112,6 +122,15 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Notícia da Adusp - "Estudantes que moram no Crusp cobram da Reitoria medidas urgentes contra a epidemia".</p>
 	<ul>
 		<li><a href="https://www.adusp.org.br/index.php/defesauniv/3596-estudantes-que-moram-no-crusp-cobram-da-reitoria-medidas-urgentes-contra-a-epidemia" target="_blank">Situação é crítica: os blocos necessitam de iluminação e reparos de todo tipo nas cozinhas e lavanderias e a maioria dos apartamentos não tem wi-fi. Além disso, falta segurança</a></li>
+	</ul>
+</ul>
+
+<ul>
+	<li>Rede Brasil Atual</li>
+	<b>[23/03/2020]</b>
+	<p>Notícia do jornal Rede Brasil Atual - Alunos que moram no Crusp reivindicam reformas, reestruturação de cozinhas, oferta de internet e dispensadores de álcool gel nas unidades para enfrentar coronavírus.</p>
+	<ul>
+		<li><a href="https://www.redebrasilatual.com.br/saude-e-ciencia/2020/03/usp-estudantes-coronavirus/" target="_blank">Coronavírus: estudantes denunciam abandono na moradia da USP</a></li>
 	</ul>
 </ul>
 
