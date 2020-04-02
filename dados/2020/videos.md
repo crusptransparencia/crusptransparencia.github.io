@@ -52,3 +52,13 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Reportagem feita pela TV Gazeta em que mostra a situação precária do CRUSP frente à pandemia do COVID-19.</p>
 	<iframe src="https://youtu.be/YIkhV61WX2U?t=2407" width="781" height="440"></iframe>
 </ul>
+
+## Alcool em Gel sem selo Inmetro
+<ul>
+	<li>Alcool em Gel sem selo Inmetro</li>
+	<b>[31/03/2020]</b>
+	<p>Vídeo mostra um dos frascos de álcool em gel distribuído para as moradoras e moradores do CRUSP. No caso, nenhum dos frascos possuía selo do Inmetro.</p>
+	<iframe src="https://drive.google.com/file/d/1nEd_HXhmgw9rMhePqxzpSoTdmIMo4Rkj/preview" width="781" height="440"></iframe>
+</ul>
+
+
