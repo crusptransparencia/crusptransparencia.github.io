@@ -55,12 +55,12 @@ do caminho do arquivo audios.md do respectivo ano
 <h3>Outras Entidades</h3>
 <ul>
     <b>Emails</b>
-    <li>Acolhe USP: <a href="mailto:acolheusp@usp.br">acolheusp@usp.br</a></li>
+    <li>Acolhe USP (Saúde mental): <a href="mailto:acolheusp@usp.br">acolheusp@usp.br</a></li>
     <li>Superintendencia de Tecnologia da Informação (STI): <a href="mailto:sti@usp.br">sti@usp.br</a></li>
     <p></p>
     <b>Telefones</b>
     <li>Superintendencia de Tecnologia da Informação (STI): <a href="tel:+551130916400">(11) 3091-6400</a></li>
-    <li>Acolhe USP: <a href="tel:+551130918345">(11) 3091-8345</a></li>
+    <li>Acolhe USP (Saúde mental): <a href="tel:+551130918345">(11) 3091-8345</a></li>
     <li>Diretoria de direitos humanos da USP: <a href="tel:+551130913436">(11) 3091-3436 - ramal USP: 913436</a></li>
     <li>Diretoria de direitos humanos da USP: <a href="tel:+551130913460">(11) 3091-3460 - ramal USP: 913460</a></li>
     <li>Coordenadoria de Serviço de Assistência Social (COSEAS): <a href="tel:+551130913205">(11) 3091-3205 - ramal USP: 913205</a></li>
