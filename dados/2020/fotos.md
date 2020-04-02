@@ -24,7 +24,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 <p>O quão grossas são as paredes do CRUSP ?</p>
 <p><img src="./imagens/paredes/1.jpeg" alt="Parede do CRUSP" title="Parede do CRUSP" width="390" height="520" /></p>
 
-## PAREDES DO CRUSP
+## ALIMENTOS ESTRAGADOS
 <p>Relatos de alimentos estragados distribuídos pela empresa terceirizada responsável pelas marmitas</p>
 <b>[01/03/2020]</b>
 <p><img src="./imagens/comida/28_03_2020_comida_estragada1.jpeg" alt="Comida estragada 11" width="390" height="520" /></p>
