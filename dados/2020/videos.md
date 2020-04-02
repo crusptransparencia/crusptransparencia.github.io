@@ -59,8 +59,8 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<b>[31/03/2020]</b>
 	<p>Vídeo mostra um dos frascos de álcool em gel distribuído para as moradoras e moradores do CRUSP. No caso, nenhum dos frascos possuía selo do Inmetro.</p>
 	<iframe src="https://drive.google.com/file/d/1nEd_HXhmgw9rMhePqxzpSoTdmIMo4Rkj/preview" width="781" height="440"></iframe>
-	<p>[1/4 18:51] Bianca: <a href="http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/orientacoes-para-compra-de-alcool-gel/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR">portal.anvisa.gov.br</a></p>
-	<p>[1/4 18:51] Bianca: "Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro) alertam que o consumidor não deve adquirir produtos como álcool gel de fornecedores que não sejam supermercados, mercados e farmácias, atentando para a presença do selo do Inmetro e a marca do Sistema Brasileiro de Avaliação de Conformidade (Sbac)."</p>
+	<p><a href="http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/orientacoes-para-compra-de-alcool-gel/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR">portal.anvisa.gov.br</a></p>
+	<p>"Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro) alertam que o consumidor não deve adquirir produtos como álcool gel de fornecedores que não sejam supermercados, mercados e farmácias, atentando para a presença do selo do Inmetro e a marca do Sistema Brasileiro de Avaliação de Conformidade (Sbac)."</p>
 </ul>
 
 
