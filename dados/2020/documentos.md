@@ -70,12 +70,12 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<b>[23-31/03/2020]</b>
 	<p>Informes aos moradores em geral sobre o posicionamento da SAS perante a situação de crise do CRUSP em meio a pandemia do COVID-19.</p>
 	<ul>
-		<li><a href="https://drive.google.com/open?id=1NUpCR6ie2faAI-RINX5_MDOwL7eJl55E" target="_blank">...</a></li>
-		<li><a href="https://drive.google.com/open?id=14MiCkm51m0a4dK71aYrku1TqkYzFhIwp" target="_blank">...</a></li>
-		<li><a href="https://drive.google.com/open?id=1x2F8cmo_f0A3SUcAPfb49zdJzhCzBJ-Z" target="_blank">...</a></li>
-		<li><a href="https://drive.google.com/open?id=1FM1IDONBpgTqc5D9tu_OafZAxUKEykdA" target="_blank">...</a></li>
-		<li><a href="https://drive.google.com/open?id=1UAF9udSf1Pa6QaiGZ0c-nUSlm7h6t1HC" target="_blank">...</a></li>
-		<li><a href="https://drive.google.com/open?id=1z8FoVkpfWuJ3poWMuOAl2NmH6XtLfqtY" target="_blank">...</a></li>
+		<li><a href="https://drive.google.com/open?id=1NUpCR6ie2faAI-RINX5_MDOwL7eJl55E" target="_blank">Informes da SAS</a></li>
+		<li><a href="https://drive.google.com/open?id=14MiCkm51m0a4dK71aYrku1TqkYzFhIwp" target="_blank">Informes da SAS</a></li>
+		<li><a href="https://drive.google.com/open?id=1x2F8cmo_f0A3SUcAPfb49zdJzhCzBJ-Z" target="_blank">Informes da SAS</a></li>
+		<li><a href="https://drive.google.com/open?id=1FM1IDONBpgTqc5D9tu_OafZAxUKEykdA" target="_blank">Informes da SAS</a></li>
+		<li><a href="https://drive.google.com/open?id=1UAF9udSf1Pa6QaiGZ0c-nUSlm7h6t1HC" target="_blank">Informes da SAS</a></li>
+		<li><a href="https://drive.google.com/open?id=1z8FoVkpfWuJ3poWMuOAl2NmH6XtLfqtY" target="_blank">Informes da SAS</a></li>
 	</ul>
 </ul>
 
