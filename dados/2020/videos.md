@@ -44,3 +44,11 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<p>Vídeo mostrando como é incabivel a declaração da STI de que um dos agravantes da falta de internet é a grossura das paredes do CRUSP.</p>
 	<iframe src="https://drive.google.com/file/d/1CltrDWWN9qHiAYWhKUUepNPQx80ysObI/preview" width="781" height="440"></iframe>
 </ul>
+
+## Reportagem TV Gazeta
+<ul>
+	<li>Paredes do CRUSP</li>
+	<b>[30/03/2020]</b>
+	<p>Reportagem feita pela TV Gazeta em que mostra a situação precária do CRUSP frente à pandemia do COVID-19.</p>
+	<iframe src="https://youtu.be/YIkhV61WX2U?t=2407" width="781" height="440"></iframe>
+</ul>
