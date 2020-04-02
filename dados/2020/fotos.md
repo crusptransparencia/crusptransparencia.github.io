@@ -26,11 +26,11 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 
 ## ALIMENTOS ESTRAGADOS
 <p>Relatos de alimentos estragados distribuídos pela empresa terceirizada responsável pelas marmitas</p>
-<b>[01/03/2020]</b>
+<b>[01/04/2020]</b>
 <p><img src="./imagens/comida/28_03_2020_comida_estragada1.jpeg" alt="Comida estragada 11" width="390" height="520" /></p>
 <p><img src="./imagens/comida/28_03_2020_comida_estragada2.jpeg" alt="Comida estragada 21" width="390" height="520" /></p>
 
-<b>[28/04/2020]</b>
+<b>[28/03/2020]</b>
 <p><img src="./imagens/comida/01_04_2020_comida_estragada1.jpeg" alt="Comida estragada 21" width="390" height="520" /></p>
 <p><img src="./imagens/comida/01_04_2020_comida_estragada2.jpeg" alt="Comida estragada 22" width="390" height="520" /></p>
 
