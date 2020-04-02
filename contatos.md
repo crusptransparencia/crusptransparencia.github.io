@@ -59,7 +59,7 @@ do caminho do arquivo audios.md do respectivo ano
     <li>Superintendencia de Tecnologia da Informação (STI): <a href="mailto:sti@usp.br">sti@usp.br</a></li>
     <p></p>
     <b>Telefones</b>
-    <li>Superintendencia de Tecnologia da Informação (STI): <a href="tel:+55113096400">(11) 3091-6400</a></li>
+    <li>Superintendencia de Tecnologia da Informação (STI): <a href="tel:+551130916400">(11) 3091-6400</a></li>
     <li>Acolhe USP: <a href="tel:+551130918345">(11) 3091-8345</a></li>
     <li>Diretoria de direitos humanos da USP: <a href="tel:+551130913436">(11) 3091-3436 - ramal USP: 913436</a></li>
     <li>Diretoria de direitos humanos da USP: <a href="tel:+551130913460">(11) 3091-3460 - ramal USP: 913460</a></li>
