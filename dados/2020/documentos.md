@@ -88,12 +88,16 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 	<ul>
 		<li><a href="http://www.esquerdadiario.com.br/URGENTE-Em-meio-ao-coronavirus-empresas-terceirizadas-comecam-a-demitir-na-USP" target="_blank">Reportagem do Intercept Brasil</a></li>
 	</ul>
+</ul>
+<ul>
 	<li>Esquerda Diário</li>
 	<b>[1/04/2020]</b>
 	<p>Notícia do jornal Esquerda Diário - "Em meio ao coronavírus, empresas terceirizadas começam a demitir na USP".</p>
 	<ul>
 		<li><a href="http://www.esquerdadiario.com.br/URGENTE-Em-meio-ao-coronavirus-empresas-terceirizadas-comecam-a-demitir-na-USP" target="_blank">A crise do coronavírus escancara a crueldade da terceirização na USP</a></li>
 	</ul>
+</ul>
+<ul>
 	<li>Estadão</li>
 	<b>[28/03/2020]</b>
 	<p>Notícia do jornal Estadão - "Alunos que moram na USP temem o avanço do coronavírus por falta de estrutura e condições de higiene".</p>
