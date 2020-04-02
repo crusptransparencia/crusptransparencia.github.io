@@ -67,6 +67,7 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 		<li><a href="https://drive.google.com/open?id=19O7nu9HjL-HjnN8xpfQSQzO0FI30Du2t" target="_blank">Nota de esclarecimento aos moradores do CRUSP</a></li>
 		<li><a href="https://drive.google.com/open?id=1UVUWtM3dr6c3tRhqd2PNYy-gK8VFgW2d" target="_blank">SAS - Moradores(as) do CRUSP</a></li>
 	</ul>
+	<p></p>
 	<b>[23-31/03/2020]</b>
 	<p>Informes aos moradores em geral sobre o posicionamento da SAS perante a situação de crise do CRUSP em meio a pandemia do COVID-19.</p>
 	<ul>
