@@ -81,6 +81,23 @@ LEMBRE-SE SEMPRE DE TORNÁ-LO PÚBLICO
 </ul>
 
 ## Notícias
+<ul>
+	<li>Esquerda Diário</li>
+	<b>[2/04/2020]</b>
+	<p>Notícia do jornal Esquerda Diário - "Reitoria da USP põe em risco trabalhadores terceirizados controladores de acesso".</p>
+	<ul>
+		<li><a href="http://esquerdadiario.com.br/Reitoria-da-USP-poe-em-risco-trabalhadores-terceirizados-controladores-de-acesso" target="_blank">Um ofício da Coordenadoria de Administração Geral da USP, CODAGE, de 30 de março exigiu que oito trabalhadoras terceirizadas da empresa Works (empresa de controle de acesso), que haviam sido liberadas pelas respectivas unidades em que trabalhavam para permanecer em quarentena, por se enquadrarem nos critérios de grupo de risco, voltassem ao trabalho em outro posto.</a></li>
+	</ul>
+</ul>
+
+<ul>
+	<li>Esquerda Diário</li>
+	<b>[2/04/2020]</b>
+	<p>Notícia do jornal Esquerda Diário - "Terceirizadas que trabalham no CRUSP relatam descaso da Reitoria: Aqui, você dá "bom dia" o povo fala "bem-vindo ao inferno"".</p>
+	<ul>
+		<li><a href="http://www.esquerdadiario.com.br/Terceirizadas-que-trabalham-no-CRUSP-relatam-descaso-da-Reitoria-Aqui-voce-da-bom-dia-o-povo-fala" target="_blank">Trabalhadoras terceirizadas da diferentes setores da USP, que foram arbitrariamente transferidas para a Superintendência de Assistência Social relatam as condições precárias de trabalho e o medo à qual estão expostas, além do descaso da Reitoria com as reais necessidades dos moradores do Conjunto Residencial da USP (CRUSP).</a></li>
+	</ul>
+</ul>
 
 <ul>
 	<li>The Intercept Brasil</li>
