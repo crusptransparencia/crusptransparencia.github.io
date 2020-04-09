@@ -6,13 +6,23 @@ description: Transparência digital de registros da comunidade cruspiana
 
 # Sobre
 
-Breve história do CRUSP
+<p>O Portal CRUSP Transparência foi criado com o objetivo de mostrar a verdadeira realidade dos moradores do CRUSP para a Comunidade USP e sociedade em geral.</p>
+<p>A iniciativa vem dos moradores do bloco F, que se articularam de forma autônoma para buscar soluções efetivas para as questões da moradia, especialmente frente à pandemia do novo coronavírus, Covid-19.</p>
 
-Motivo e momento do surgimento da plataforma
 
-## Situação atual
+## CONTEXTO
 
-* Descrição da situação cruspiana
+CONTEXTO
+Frente a evolução em progressão geométrica das vítimas pelo coronavírus, os casos confirmados na comunidade USP, a precariedade do Hospital Universitário, a quarentena em curso, calamidade pública declarada pelo Estado de São Paulo e a situação dos estudantes residentes no CRUSP (vulnerabilidade econômica e social, crianças, idosos, imunossuprimidos, com doenças crônicas e patologias de base), iniciou-se a busca pela resolução de problemas estruturais históricos de uma das maiores moradias estudantis do país. 
+Nossas reivindicações:
+-  um representante do CRUSP no Comitê Permanente USP COVID-19;
+- manutenção imediata das cozinhas: troca de lâmpadas, tomadas, manutenção nos dutos e religamento do gás encanado, fogões funcionando, instalação de torneiras e manutenção nas pias/encanamento possibilitando, assim, alternativas seguras de alimentação;
+- manutenção nos blocos: reparos elétricos/hidráulicos, instalação de luz nos corredores, mobília mínima nos apartamentos, dedetização contra pragas, lavanderias com máquinas de lavar e secadoras funcionando, reabertura das salas de estudos/vídeo e instalação de internet nos apartamentos, para garantir permanência mínima e em condição salutar;
+- garantia de distribuição dos medicamentos de uso contínuo e controlado, tais como insulina, benzodiazepínicos, ansiolíticos, antihipertensivos, anticoagulantes, moduladores de humor, anticonvulsivantes, entre outros;
+- aumento da segurança: porteiros nos blocos, uma vez que com o campus esvaziado, ficamos mais suscetíveis a furtos e invasões de apartamentos (como já ocorrido no último recesso em dezembro de 2019) e restrição total de acesso ao campus à comunidade externa;
+- dispensa imediata dos trabalhadores terceirizados para que possam cumprir a quarentena e a manutenção de seus salários, garantindo que se cumpram todos os seus direitos;
+- propostas de alternativas de alimentação: seja através da distribuição de alimentos ou auxílio financeiro.
+
 
 ## Informe do Bloco F
 
