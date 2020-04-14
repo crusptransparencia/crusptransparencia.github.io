@@ -10,9 +10,8 @@ description: Transparência digital de registros da comunidade cruspiana
 <p>A iniciativa vem dos moradores do bloco F, que se articularam de forma autônoma para buscar soluções efetivas para as questões da moradia, especialmente frente à pandemia do novo coronavírus, Covid-19.</p>
 
 
-## CONTEXTO
+## Contexto
 
-CONTEXTO
 Frente a evolução em progressão geométrica das vítimas pelo coronavírus, os casos confirmados na comunidade USP, a precariedade do Hospital Universitário, a quarentena em curso, calamidade pública declarada pelo Estado de São Paulo e a situação dos estudantes residentes no CRUSP (vulnerabilidade econômica e social, crianças, idosos, imunossuprimidos, com doenças crônicas e patologias de base), iniciou-se a busca pela resolução de problemas estruturais históricos de uma das maiores moradias estudantis do país. 
 Nossas reivindicações:
 -  um representante do CRUSP no Comitê Permanente USP COVID-19;
