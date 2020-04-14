@@ -10,4 +10,4 @@ do caminho do arquivo audios.md do respectivo ano
 -->
 
 # Alimentação dos Estudantes
-<iframe src='\dados\2020\graficos\alimentacao_quantidade.html' frameborder="0" width="800px" height="800px" allign="middle"></iframe>
+<iframe src='\dados\2020\graficos\alimentacao_quantidade.html' frameborder="0" width="1000px" height="600px" allign="middle"></iframe>
