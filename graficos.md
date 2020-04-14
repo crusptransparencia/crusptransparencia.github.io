@@ -10,7 +10,7 @@ do caminho do arquivo audios.md do respectivo ano
 -->
 
 <div class = "row">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" srcdoc="./dados/graficos/distancia_aos_familiares.html" height="525" width="100%"></iframe>
+    <iframe style="border:none;" srcdoc="./dados/graficos/distancia_aos_familiares.html" height="525" width="100%"></iframe>
 </div>
 
 
