@@ -10,5 +10,17 @@ do caminho do arquivo audios.md do respectivo ano
 -->
 
 <div class = "row">
-    <iframe src="./dados/graficos/alimentacao_quantidade.html" width="640" height="480"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="./dados/graficos/alimentacao_quantidade.html" height="525" width="100%"></iframe>
 </div>
+
+
+
+
+<style scoped>
+.row {
+    aligin-items: center;
+    text-align: center;
+}
+
+
+</style>
