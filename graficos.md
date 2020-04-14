@@ -10,12 +10,12 @@ do caminho do arquivo audios.md do respectivo ano
 -->
 
 <div class = "row">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="./dados/graficos/alimentacao_quantidade.html" height="525" width="100%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="./dados/graficos/distancia_aos_familiares.html" height="525" width="100%"></iframe>
 </div>
 
 
 
-
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <style scoped>
 .row {
     aligin-items: center;
