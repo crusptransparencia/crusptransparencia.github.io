@@ -23,7 +23,7 @@ description: Transparência digital de registros da comunidade cruspiana
 <p>- propostas de alternativas de alimentação: seja através da distribuição de alimentos ou auxílio financeiro.</p>
 
 
-# O que tem sido feito - Lista Cronológica 
+<h2>O que tem sido feito - Lista Cronológica</h2>
 
 <p>No dia 11 de março foi noticiado o contágio de um aluno USP com covid-19. Em 12 de março, preocupados com a situação do CRUSP, nós moradores entregamos a  primeira carta à SAS.</p>
 <p>No dia 17 de março, por volta das 11hrs, foi realizada uma reunião com SAS na presença de integrantes da AMORCRUSP e demais moradores. Nesta reunião, foram prometidas as reformas das cozinhas (pelo menos uma cozinha por bloco) e a instalação dos dispensers de álcool gel (nas portarias, elevadores, e 1 por andar) com prazo de entrega até sexta, 20, como mencionado no e-mail da SAS do dia 18 de março. O conteúdo destas cartas, bem como outros dados, estão disponíveis em <a href="./documentos">https://crusptransparencia.github.io/documentos</a>. O cárater emergencial aparentemente não foi atendido.</p>
